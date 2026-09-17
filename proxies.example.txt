@@ -1,0 +1,5 @@
+# One proxy per line. Supported schemes: http://, https://, socks4://, socks5://
+# Lines starting with # are ignored.
+#
+# http://user:pass@1.2.3.4:8080
+# socks5://1.2.3.4:1080
